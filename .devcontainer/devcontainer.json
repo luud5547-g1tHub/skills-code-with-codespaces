@@ -1,6 +1,4 @@
 {
-  "name": "Universal - Latest",
-  "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
     "ghcr.io/devcontainers/features/python:1": {
       "installTools": true, 
